@@ -23,7 +23,7 @@ Sou aluno do SENAI MG do CTTIT onde atualmente estou cursando Desenvolvimento de
   <img aligm="center" alt="Rick-JV" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img aligm="center" alt="Rick-JV" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img aligm="center" alt="Rick-JV" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img aligm="center" alt="Rick-JV" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
 </div>
 <div> 
