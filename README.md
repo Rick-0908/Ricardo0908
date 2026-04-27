@@ -19,12 +19,18 @@ Sou aluno do SENAI MG do CTTIT onde atualmente estou cursando Desenvolvimento de
 
 
 <div align="center">
-  <img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img alt="IntelliJ" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img alt="MySQL" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <a href="https://www.instagram.com/ricardo_alcantara017/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle;">
-  </a>
+  <table>
+    <tr>
+      <td valign="center"><img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></td>
+      <td valign="center"><img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></td>
+      <td valign="center"><img alt="VSCode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></td>
+      <td valign="center"><img alt="IntelliJ" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></td>
+      <td valign="center"><img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></td>
+      <td valign="center">
+        <a href="https://www.instagram.com/ricardo_alcantara017/" target="_blank">
+          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
