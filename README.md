@@ -18,7 +18,7 @@ Sou aluno do SENAI MG do CTTIT onde atualmente estou cursando Desenvolvimento de
 
 
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <img alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
