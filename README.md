@@ -43,6 +43,3 @@
 
 <br>
 
-<div align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/e7f3b846-2432-4a92-ad48-8f71fc083cf5" style="border-radius: 10px;" />
-</div>
