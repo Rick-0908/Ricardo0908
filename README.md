@@ -25,8 +25,29 @@
 
 ### 📈 GitHub Stats
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rick0908&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick0908&layout=compact&langs_count=7&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RickAlcAL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickAlcAL&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+---
+
+### 📂 Meus Projetos em Destaque
+<div align="left">
+  <a href="https://github.com/RickAlcAL/Prot-tipos-de-Wireframes-de-situa-es-reais">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=Prot-tipos-de-Wireframes-de-situa-es-reais&theme=dracula" />
+  </a>
+  <a href="https://github.com/RickAlcAL/estudos-sql-queries">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=estudos-sql-queries&theme=dracula" />
+  </a>
+</div>
+<br>
+<div align="left">
+  <a href="https://github.com/RickAlcAL/Projects_SaaS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=Projects_SaaS&theme=dracula" />
+  </a>
+  <a href="https://github.com/RickAlcAL/DataScience">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=DataScience&theme=dracula" />
+  </a>
 </div>
 
 ---
@@ -42,4 +63,6 @@
 </div>
 
 <br>
-
+<div align="center">
+  <img width="200" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</div>
