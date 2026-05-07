@@ -23,33 +23,77 @@
 
 <br>
 
-### 📈 GitHub Stats
+### 📈 Estatísticas e Atividade
+
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RickAlcAL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickAlcAL&layout=compact&langs_count=7&theme=dracula" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RickAlcAL&theme=dracula&area=true&hide_border=true" />
 </div>
 
----
+<br />
 
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=RickAlcAL&cc=222&show_icons=true&theme=dracula&count_private=true" />
+    </td>
+    <td width="50%" align="center">
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RickAlcAL&layout=compact&theme=dracula&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="left">
+  <img height="150em" src="https://metrics.lecoq.io/RickAlcAL?template=classic&base=none&base.commits=1&base.contributions=1&config.timezone=America%2FSao_Paulo" />
+</div>
+
+<div align="left">
+  <img height="150em" src="https://metrics.lecoq.io/RickAlcAL?template=classic&base=none&base.commits=1&base.contributions=1&config.timezone=America%2FSao_Paulo" />
+</div>
 ### 📂 Meus Projetos em Destaque
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/RickAlcAL/learning-java">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RickAlcAL&repo=learning-java&theme=dracula" alt="Projeto Learning Java" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/RickAlcAL/estudos-sql-queries">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RickAlcAL&repo=estudos-sql-queries&theme=dracula" alt="Projeto SQL" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/RickAlcAL/Projects_SaaS">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RickAlcAL&repo=Projects_SaaS&theme=dracula" alt="Projeto SaaS" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/RickAlcAL/DataScience">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RickAlcAL&repo=DataScience&theme=dracula" alt="Projeto Data Science" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/RickAlcAL/Prot-tipos-de-Wireframes-de-situa-es-reais">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RickAlcAL&repo=Prot-tipos-de-Wireframes-de-situa-es-reais&theme=dracula" alt="Projeto Wireframes" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      </td>
+  </tr>
+</table>
+
 <div align="left">
   <a href="https://github.com/RickAlcAL/Prot-tipos-de-Wireframes-de-situa-es-reais">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=Prot-tipos-de-Wireframes-de-situa-es-reais&theme=dracula" />
   </a>
-  <a href="https://github.com/RickAlcAL/estudos-sql-queries">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=estudos-sql-queries&theme=dracula" />
-  </a>
 </div>
-<br>
-<div align="left">
-  <a href="https://github.com/RickAlcAL/Projects_SaaS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=Projects_SaaS&theme=dracula" />
-  </a>
-  <a href="https://github.com/RickAlcAL/DataScience">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=DataScience&theme=dracula" />
-  </a>
-</div>
-
 ---
 
 ### 🌐 Conecte-se comigo
