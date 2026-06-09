@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Estudando-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SENAI-MG-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SENAI--MG-red?style=for-the-badge">
 </p>
 
 ### 🎓 Formação & Foco
@@ -48,9 +48,6 @@
   <img height="150em" src="https://metrics.lecoq.io/RickAlcAL?template=classic&base=none&base.commits=1&base.contributions=1&config.timezone=America%2FSao_Paulo" />
 </div>
 
-<div align="left">
-  <img height="150em" src="https://metrics.lecoq.io/RickAlcAL?template=classic&base=none&base.commits=1&base.contributions=1&config.timezone=America%2FSao_Paulo" />
-</div>
 ### 📂 Meus Projetos em Destaque
 
 <table border="0" width="100%">
@@ -85,15 +82,10 @@
       </a>
     </td>
     <td width="50%" align="center">
-      </td>
+    </td>
   </tr>
 </table>
 
-<div align="left">
-  <a href="https://github.com/RickAlcAL/Prot-tipos-de-Wireframes-de-situa-es-reais">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RickAlcAL&repo=Prot-tipos-de-Wireframes-de-situa-es-reais&theme=dracula" />
-  </a>
-</div>
 ---
 
 ### 🌐 Conecte-se comigo
@@ -108,5 +100,5 @@
 
 <br>
 <div align="center">
-  <img width="200" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" />
 </div>
