@@ -7,7 +7,8 @@
 
 ### 🎓 Formação & Foco
 * 🏫 Cursando **Desenvolvimento de Sistemas** no SENAI MG (CTTIT).
-* ☕ Especializando em **Java** e apaixonado por arquitetura de software.
+* ☕ Especializando em **Java** & **Spring Boot** com foco em arquitetura de software e APIs REST.
+* 🗄️ Modelagem e manipulação de dados com **MySQL**.
 * 👨‍💻 Construindo o futuro, um commit por vez.
 
 ---
@@ -15,8 +16,9 @@
 ### 🛠️ Tecnologias & Ferramentas
 <div align="left">
   <img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img height="40" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img height="40" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
@@ -100,5 +102,9 @@
 
 <br>
 <div align="center">
-  <img width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" />
+  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" />
 </div>
