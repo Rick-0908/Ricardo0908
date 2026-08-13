@@ -102,9 +102,14 @@
 
 <br>
 <div align="center">
-  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" />
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height ="80" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt "HTML Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt "CSS Logo"/>
+          
 </div>
