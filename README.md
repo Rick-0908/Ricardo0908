@@ -44,6 +44,8 @@
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
   &nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+  &nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot">
   &nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate">
