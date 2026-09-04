@@ -67,7 +67,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL">
 </p>
 
-<h3 align="center"> Ferramentas</h3>
+<h3 align="center">Ferramentas</h3>
 
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
@@ -77,6 +77,40 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA">
   &nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code">
+</p>
+
+<br>
+
+---
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<h3 align="center">📦 Sistema de Controle de Estoque e Vendas</h3>
+
+<p align="center">
+  Aplicação Full Stack desenvolvida com <b>Java 21, Spring Boot, JPA/Hibernate, MySQL, HTML, CSS e JavaScript</b>.
+</p>
+
+<p align="center">
+  O sistema possui integração entre Front-End e API REST, consulta de produtos e fornecedores,
+  cadastro de produtos e persistência dos dados em banco MySQL hospedado na nuvem.
+</p>
+
+<p align="center">
+  <b>Back-End:</b> Spring Boot + REST API + JPA/Hibernate<br>
+  <b>Front-End:</b> HTML + CSS + JavaScript<br>
+  <b>Banco de Dados:</b> MySQL<br>
+  <b>Deploy:</b> Render + Aiven
+</p>
+
+<p align="center">
+  <a href="https://controle-e-venda.onrender.com/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20ACESSAR%20PROJETO-2ea44f?style=for-the-badge" alt="Deploy">
+  </a>
+  &nbsp;
+  <a href="https://github.com/RickAlcAL/Controle-e-Venda" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+  </a>
 </p>
 
 <br>
